@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Bloopers.me/static/css/main.7a3b6bc1.css",
+    "main.js": "/Bloopers.me/static/js/main.8ade327c.js",
+    "static/js/787.d564ed03.chunk.js": "/Bloopers.me/static/js/787.d564ed03.chunk.js",
+    "static/media/boy.png": "/Bloopers.me/static/media/boy.fb9b5df93c2d62ac39c3.png",
+    "static/media/resume.pdf": "/Bloopers.me/static/media/resume.b792664d52e3d65db9cb.pdf",
+    "static/media/glassesimoji.png": "/Bloopers.me/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/profile1.jpeg": "/Bloopers.me/static/media/profile1.56550838ff04971f4719.jpeg",
+    "static/media/thumbup.png": "/Bloopers.me/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Bloopers.me/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Bloopers.me/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Bloopers.me/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Bloopers.me/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Bloopers.me/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Bloopers.me/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Bloopers.me/index.html",
+    "main.7a3b6bc1.css.map": "/Bloopers.me/static/css/main.7a3b6bc1.css.map",
+    "main.8ade327c.js.map": "/Bloopers.me/static/js/main.8ade327c.js.map",
+    "787.d564ed03.chunk.js.map": "/Bloopers.me/static/js/787.d564ed03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3b6bc1.css",
+    "static/js/main.8ade327c.js"
+  ]
+}
